@@ -1,5 +1,3 @@
-# underscore 的常用方法［test］
-
 # Underscore.js常用的方法介绍
 
 标签（空格分隔）： Underscore.js
