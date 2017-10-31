@@ -30,6 +30,6 @@ _.map({name:'whynyist',age:123},function(num,key) {
 _.map({name:'whynyist',age:123},function(num,key) {
 	return num;
 });		
-//["whynyist", 123]
+//["whynyist", 1234]
 ```
 
